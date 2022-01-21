@@ -16,7 +16,7 @@ public class Persona {
     private float altura;
     private int peso;
     private int edad;    
-    private int tontosPorM2;
+    
     
     
     public Persona(){
