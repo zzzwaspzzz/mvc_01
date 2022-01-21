@@ -16,6 +16,10 @@ public class Persona {
     private float altura;
     private int peso;
     private int edad;
+    private Profesion profesion;
+    enum Profesion{
+    	'Torero', 'Taxista';
+    }
     
     
     public Persona(){
